@@ -2,7 +2,7 @@
 
 import { usingCommonFunctions } from "../support/page_objects/common_functions";
 
-describe('Aautoversicherung Page - Positive UI Test', () => {
+describe('Fahrzeug Versichert Werden Page - Positive UI Test', () => {
 
     let testdata
 
