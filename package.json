@@ -1,0 +1,25 @@
+{
+  "name": "finance_scout24",
+  "version": "1.0.0",
+  "description": "automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "all_tests_headed": "npx cypress run --headed --browser chrome",
+    "all_tests_headless": "npx cypress run --browser chrome",
+    "tests_00_headed": "npx cypress run --spec cypress/e2e/00_fs24_nevigation_functionality_test.cy.js --headed --browser chrome",
+    "tests_00": "npx cypress run --spec cypress/e2e/00_fs24_nevigation_functionality_test.cy.js --browser chrome",
+    "tests_01_headed": "npx cypress run --spec cypress/e2e/01_fs24_negative_test_de.cy.js --headed --browser chrome",
+    "tests_01": "npx cypress run --spec cypress/e2e/01_fs24_negative_test_de.cy.js --browser chrome",
+    "tests_02_headed": "npx cypress run --spec cypress/e2e/01_fs24_negative_test_fr.cy.js --headed --browser chrome",
+    "tests_02": "npx cypress run --spec cypress/e2e/01_fs24_negative_test_fr.cy.js --browser chrome",
+    "tests_03_headed": "npx cypress run --spec cypress/e2e/02_fs24_positive_test.cy.js --headed --browser chrome",
+    "tests_03": "npx cypress run --spec cypress/e2e/02_fs24_positive_test.cy.js --browser chrome"
+  },
+  "author": "Vladan Furman",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-mochawesome-reporter": "^3.8.0"
+  }
+}

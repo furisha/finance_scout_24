@@ -1,0 +1,59 @@
+{
+    "input_values": {
+        "marke": "AUDI",
+        "inverkehrsetzung_jahr": "2011",
+        "inverkehrsetzung_monat": "mai",
+        "modell": "AUDI A1 1.2 TFSI",
+        "aktueller_kilometerstand": "170000",
+        "wert_des_zubehors_wahrung": "CHF",
+        "wert_des_zubehors_value": "",
+        "wert_des_zubehors": "5000",
+        "besitz_des_fahrzeugs_positive": "Oui",
+        "besitz_des_fahrzeugs_negative": "Non",
+        "kaufjahr": "2022",
+        "geleast_positive": "Oui",
+        "geleast_negative": "Non",
+        "pro_jahr_in_kilometern": "2000",
+        "art_der_nutzung_privat": "À titre privé",
+        "art_der_nutzung_arbeitsweg": "Trajet domicile/lieu de travail",
+        "art_der_nutzung_beruflich": "À titre professionnel",
+        "kanton_eingelost_einlosen": "Zurich",
+        "untergebracht_1": "Non",
+        "untergebracht_2": "Oui, à la maison",
+        "untergebracht_3": "Oui, sur le lieu de travail",
+        "untergebracht_4": "Oui, à la maison et sur le lieu de travail",
+        "dropdown_select_value": "Veuillez sélectionner"
+    },
+    "labels": {
+        "marke": "Marque",
+        "inverkehrsetzung": "1ère mise en circulation",
+        "jahr": "Année",
+        "monat": "Mois",
+        "modell": "Modèle et version ou réception par type",
+        "aktueller_kilometerstand": "Kilométrage",
+        "wert_des_zubehors": "Valeur des accessoires",
+        "besitz_des_fahrzeugs": "Êtes-vous déjà en possession du véhicule?",
+        "kaufjahr": "Année d’achat",
+        "geleast": "Avez-vous pris le véhicule en leasing ou prévoyez-vous de le faire?",
+        "pro_jahr_in_kilometern": "Kilomètres parcourus par an",
+        "art_der_nutzung": "Utilisation",
+        "kanton_eingelost_einlosen": "Dans quel canton avez-vous fait immatriculer ou allez-vous faire immatriculer le véhicule?",
+        "untergebracht": "Le véhicule sera-t-il parqué dans un garage fermé?"
+
+    },
+    "feedback": {
+        "marke": "Veuillez sélectionner une marque",
+        "jahr": "Veuillez sélectionner une année",
+        "monat": "Veuillez sélectionner un mois",
+        "modell": "Aucun véhicule n’a été trouvé. Merci de vérifier les données renseignées.",
+        "aktueller_kilometerstand": "Veuillez entrer le kilométrage actuel",
+        "besitz_des_fahrzeugs": "Veuillez sélectionner l’option pertinente.",
+        "kaufjahr": "Veuillez entrer l’année d’acquisition",
+        "geleast": "Veuillez indiquer si le véhicule est pris en leasing",
+        "pro_jahr_in_kilometern": "Veuillez donner des informations sur la prestation kilométrique",
+        "art_der_nutzung": "Veuillez donner des informations sur l’utilisation du véhicule",
+        "kanton_eingelost_einlosen": "Veuillez sélectionner le canton d’immatriculation",
+        "untergebracht": "Veuillez sélectionner l’option pertinente"
+    }
+    
+}

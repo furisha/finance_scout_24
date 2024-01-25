@@ -1,0 +1,65 @@
+{
+    "urls": {
+        "fs24_main_page": "https://www.financescout24.ch/de",
+        "fahrzeug_versichert_werden_page": "https://autoversicherung.financescout24.ch/de/inquiry",
+        "autoversicherung_page": "https://www.financescout24.ch/de/lp/autoversicherung",
+        "lenker_page": "https://autoversicherung.financescout24.ch/inquiry?step=driver"
+    },
+    "input_values": {
+        "marke": "AUDI",
+        "inverkehrsetzung_jahr": "2011",
+        "inverkehrsetzung_monat": "Mai",
+        "modell": "AUDI A1 1.2 TFSI",
+        "aktueller_kilometerstand": "170000",
+        "wert_des_zubehors_wahrung": "CHF",
+        "wert_des_zubehors_value": "",
+        "wert_des_zubehors": "5000",
+        "besitz_des_fahrzeugs_positive": "Ja",
+        "besitz_des_fahrzeugs_negative": "Nein",
+        "kaufjahr": "2022",
+        "geleast_positive": "Ja",
+        "geleast_negative": "Nein",
+        "pro_jahr_in_kilometern": "2000",
+        "art_der_nutzung_privat": "Privat",
+        "art_der_nutzung_arbeitsweg": "Arbeitsweg",
+        "art_der_nutzung_beruflich": "Beruflich",
+        "kanton_eingelost_einlosen": "Zürich",
+        "untergebracht_1": "Nein",
+        "untergebracht_2": "Ja, zuhause",
+        "untergebracht_3": "Ja, am Arbeitsplatz",
+        "untergebracht_4": "Ja, zuhause und am Arbeitsplatz",
+        "dropdown_select_value": "Bitte auswählen"
+    },
+    "labels": {
+        "marke": "Marke",
+        "inverkehrsetzung": "1. Inverkehrsetzung",
+        "jahr": "Jahr",
+        "monat": "Monat",
+        "modell": "Modell und Typ oder Typengenehmigung",
+        "aktueller_kilometerstand": "Aktueller Kilometerstand",
+        "wert_des_zubehors": "Wert des Zubehörs",
+        "besitz_des_fahrzeugs": "Bist du bereits im Besitz des Fahrzeugs?",
+        "kaufjahr": "Kaufjahr",
+        "geleast": "Hast du das Fahrzeug geleast oder wirst du es leasen?",
+        "pro_jahr_in_kilometern": "Deine Fahrleistung pro Jahr in Kilometern",
+        "art_der_nutzung": "Art der Nutzung",
+        "kanton_eingelost_einlosen": "In welchem Kanton hast du das Fahrzeug eingelöst oder wirst du es einlösen?",
+        "untergebracht": "Kann das Fahrzeug in einer geschlossenen Garage untergebracht werden?"
+
+    },
+    "feedback": {
+        "marke": "Bitte wähle eine Marke",
+        "jahr": "Bitte wähle ein Jahr aus",
+        "monat": "Bitte wähle einen Monat aus",
+        "modell": "Das Fahrzeug wurde nicht gefunden. Bitte überprüfe deine Eingabe.",
+        "aktueller_kilometerstand": "Bitte gib den aktuellen Kilomenterstand an",
+        "besitz_des_fahrzeugs": "Bitte mach eine Angabe.",
+        "kaufjahr": "Bitte gib das Kaufjahr an.",
+        "geleast": "Bitte gib an, ob das Fahrzeug geleast wird",
+        "pro_jahr_in_kilometern": "Bitte mach Angaben zur Fahrleistung",
+        "art_der_nutzung": "Bitte mach Angaben zur Fahrzeugnutzung",
+        "kanton_eingelost_einlosen": "Bitte wähle den Zulassungskanton",
+        "untergebracht": "Bitte wähle die zutreffende Option"
+    }
+    
+}
